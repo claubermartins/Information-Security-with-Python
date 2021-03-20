@@ -9,7 +9,7 @@ Created on Sat Mar 20 17:58:47 2021
 #biblioteca para fazer o multiThread
 from threading import Thread
 import time
-
+#função para colocar dois carros de corrida que competirão entre si.
 def carro(velocidade, piloto):
     trajeto = 0
     while trajeto <= 100:
