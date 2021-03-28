@@ -1,2 +1,2 @@
 # Information-Security-with-Python
-Project created with the Python language to develop tools for securing information.
+Project created with the Python language to develop tools for information security.
